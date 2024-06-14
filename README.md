@@ -7,6 +7,7 @@ Hello intrepid scientists, today you undertake the most difficult challenge of y
 
 But fear not, with this guide in hand you will be safe and secure on your journey to unpacked and analyzed data.
 
+All of the cpp and header files should be placed with a subdirectory called "src" which should be inside the directory that contains the Makefile. Unless, of course, you want to edit the Makefile to have the cpp and header files somewhere else.
 
 This code has 5 components:
 
